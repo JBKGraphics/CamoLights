@@ -30,14 +30,14 @@ public class CamoLights {
     public static IProxy proxy;
 
 
+
+
     /* PreInitialization event = blocks get made, configuration is here,   */
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event){
         //ConfigurationHandler.init(event.getSuggestedConfigurationFile());
-
+        ModBlocks.init();
         //ModItems.init();
-
-        //ModBlocks.init();
     }
 
 
