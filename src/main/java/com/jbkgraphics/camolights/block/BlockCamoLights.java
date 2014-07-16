@@ -1,7 +1,6 @@
 package com.jbkgraphics.camolights.block;
 
 
-import com.jbkgraphics.camolights.creativetab.CreativeTabCL;
 import com.jbkgraphics.camolights.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;

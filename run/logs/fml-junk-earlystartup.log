@@ -64,3 +64,171 @@
 [11:17:18] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
 [11:17:18] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
 [11:17:18] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:13:00] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[16:13:00] [main/INFO] [GradleStart]: Extra: []
+[16:13:01] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[16:13:01] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:13:01] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:13:01] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:26:29] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[16:26:29] [main/INFO] [GradleStart]: Extra: []
+[16:26:29] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[16:26:29] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:26:29] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:26:29] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:34:15] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[16:34:15] [main/INFO] [GradleStart]: Extra: []
+[16:34:15] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[16:34:15] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:34:15] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:34:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:36:46] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[16:36:46] [main/INFO] [GradleStart]: Extra: []
+[16:36:46] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[16:36:46] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:36:46] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:36:46] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:39:12] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[16:39:12] [main/INFO] [GradleStart]: Extra: []
+[16:39:12] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[16:39:12] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:39:12] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:39:12] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:39:53] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[16:39:53] [main/INFO] [GradleStart]: Extra: []
+[16:39:53] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[16:39:53] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:39:53] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:39:53] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:40:55] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[16:40:55] [main/INFO] [GradleStart]: Extra: []
+[16:40:55] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[16:40:55] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:40:55] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:40:55] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:44:00] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[16:44:00] [main/INFO] [GradleStart]: Extra: []
+[16:44:01] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[16:44:01] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:44:01] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:44:01] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:45:02] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[16:45:02] [main/INFO] [GradleStart]: Extra: []
+[16:45:02] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[16:45:02] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:45:02] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:45:02] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:51:57] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[16:51:57] [main/INFO] [GradleStart]: Extra: []
+[16:51:57] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[16:51:57] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:51:57] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:51:57] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:52:54] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[16:52:54] [main/INFO] [GradleStart]: Extra: []
+[16:52:54] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[16:52:54] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:52:54] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:52:54] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:10:17] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[17:10:17] [main/INFO] [GradleStart]: Extra: []
+[17:10:17] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[17:10:17] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:10:17] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:10:17] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:12:07] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[17:12:07] [main/INFO] [GradleStart]: Extra: []
+[17:12:07] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[17:12:07] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:12:07] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:12:07] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:31:40] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[17:31:40] [main/INFO] [GradleStart]: Extra: []
+[17:31:40] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[17:31:40] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:31:41] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:31:41] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[20:17:53] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[20:17:54] [main/INFO] [GradleStart]: Extra: []
+[20:17:54] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[20:17:54] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[20:17:54] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[20:17:54] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[21:18:39] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[21:18:39] [main/INFO] [GradleStart]: Extra: []
+[21:18:39] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[21:18:39] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:18:39] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:18:39] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[21:20:33] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[21:20:33] [main/INFO] [GradleStart]: Extra: []
+[21:20:33] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[21:20:33] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:20:33] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:20:33] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[21:22:04] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[21:22:04] [main/INFO] [GradleStart]: Extra: []
+[21:22:04] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[21:22:04] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:22:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:22:04] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[21:23:50] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[21:23:50] [main/INFO] [GradleStart]: Extra: []
+[21:23:50] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[21:23:50] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:23:50] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:23:50] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[21:30:25] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[21:30:25] [main/INFO] [GradleStart]: Extra: []
+[21:30:25] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[21:30:25] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:30:25] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:30:25] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[21:30:37] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[21:30:37] [main/INFO] [GradleStart]: Extra: []
+[21:30:37] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[21:30:37] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:30:37] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:30:37] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[21:31:04] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[21:31:04] [main/INFO] [GradleStart]: Extra: []
+[21:31:04] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[21:31:04] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:31:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:31:04] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[21:37:54] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[21:37:54] [main/INFO] [GradleStart]: Extra: []
+[21:37:54] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[21:37:54] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:37:54] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:37:54] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[21:39:43] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[21:39:43] [main/INFO] [GradleStart]: Extra: []
+[21:39:43] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[21:39:43] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:39:43] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:39:43] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[21:40:17] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[21:40:17] [main/INFO] [GradleStart]: Extra: []
+[21:40:17] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[21:40:17] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:40:17] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:40:17] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[21:43:11] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[21:43:11] [main/INFO] [GradleStart]: Extra: []
+[21:43:11] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[21:43:11] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:43:11] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:43:11] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[21:44:08] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[21:44:09] [main/INFO] [GradleStart]: Extra: []
+[21:44:09] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[21:44:09] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:44:09] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:44:09] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[21:49:29] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[21:49:29] [main/INFO] [GradleStart]: Extra: []
+[21:49:29] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, FML, --assetIndex, 1.7.10, --assetsDir, /Users/JBKGraphics/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[21:49:29] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:49:29] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:49:29] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker

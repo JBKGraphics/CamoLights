@@ -46,7 +46,7 @@ public class CamoLights {
     @Mod.EventHandler
     public void init(FMLInitializationEvent event){
 
-        //Recipes.init();
+        Recipes.init();
     }
 
 
