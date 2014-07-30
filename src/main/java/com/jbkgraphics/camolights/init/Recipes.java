@@ -30,5 +30,10 @@ public class Recipes {
         GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.junglePlanksCamo, 8), new Object[]{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', new ItemStack(Blocks.planks, 1,3)});
         GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.acaciaPlanksCamo, 8), new Object[]{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', new ItemStack(Blocks.planks, 1,4)});
         GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.darkPlanksCamo, 8), new Object[]{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', new ItemStack(Blocks.planks, 1,5)});
+
+
+        //Wool Blocks
+        //There are 15-16 colors, so 15-16 recipes.
+        GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.whiteWoolCamo, 8), new Object[]{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', new ItemStack(Blocks.wool)});
     }
 }

@@ -5,11 +5,22 @@
  R4wk, ZeuX, IngisKahn      
  MCP Data version : unknown
 ****************************
-:ideaModule
-:ideaProject
-:ideaWorkspace
-:idea
+:extractUserDev UP-TO-DATE
+:extractNatives UP-TO-DATE
+:genSrgs SKIPPED
+:getAssetsIndex
+:getAssets
+:makeStart FAILED
 
-BUILD SUCCESSFUL
+FAILURE: Build failed with an exception.
 
-Total time: 20.542 secs
+* What went wrong:
+Execution failed for task ':makeStart'.
+> Cannot find System Java Compiler. Ensure that you have installed a JDK (not just a JRE) and configured your JAVA_HOME system variable to point to the according directory.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 9.601 secs
