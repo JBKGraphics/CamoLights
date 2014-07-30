@@ -2,33 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da6840f0-6757-45c6-aba7-c35e62139b70" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/AcaciaPlanksCamo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/BirchPlanksCamo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/DarkPlanksCamo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/JunglePlanksCamo.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/oakLogCamo.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/camolights/textures/blocks/glassCamo.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/camolights/textures/blocks/woodPlanksCamo.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/OakPlanksCamo.java" afterPath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/OakPlanksCamo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/SprucePlanksCamo.java" afterPath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/SprucePlanksCamo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/StoneBrickCamo.java" afterPath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/stone/StoneBrickCamo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/StoneCamo.java" afterPath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/stone/StoneCamo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/playerdata/040a63f0-e153-3f49-84a8-b60ca564e69f.dat" afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/040a63f0-e153-3f49-84a8-b60ca564e69f.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/level.dat" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/level.dat_old" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat_old" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/region/r.-1.1.mca" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-1.1.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/region/r.-1.2.mca" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-1.2.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/region/r.-2.1.mca" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-2.1.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/region/r.-2.2.mca" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-2.2.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/session.lock" afterPath="$PROJECT_DIR$/run/saves/New World/session.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/DIM-1/data/villages.dat" afterPath="$PROJECT_DIR$/run/saves/New World/DIM-1/data/villages.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/DIM1/data/villages.dat" afterPath="$PROJECT_DIR$/run/saves/New World/DIM1/data/villages.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/data/villages.dat" afterPath="$PROJECT_DIR$/run/saves/New World/data/villages.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/stats/040a63f0-e153-3f49-84a8-b60ca564e69f.json" afterPath="$PROJECT_DIR$/run/saves/New World/stats/040a63f0-e153-3f49-84a8-b60ca564e69f.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CamoLights.iml" afterPath="$PROJECT_DIR$/CamoLights.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CamoLights.iws" afterPath="$PROJECT_DIR$/CamoLights.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/ModBlocks.java" afterPath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/ModBlocks.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/Recipes.java" afterPath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/Recipes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/camolights/lang/en_US.lang" afterPath="$PROJECT_DIR$/src/main/resources/assets/camolights/lang/en_US.lang" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/run/logs/fml-client-1.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/fml-client-2.log" afterPath="$PROJECT_DIR$/run/logs/fml-client-2.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/fml-client-3.log" afterPath="$PROJECT_DIR$/run/logs/fml-client-3.log" />
@@ -84,8 +62,8 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <breakpoint_rules converted="true" />
     <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -96,8 +74,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47493404" vertical-offset="0" max-vertical-offset="1020">
-              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1020">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -205,6 +183,17 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CamoLights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -233,27 +222,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,7 +239,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="Pick&#9;FILE&#9;jar:///Users/JBKGraphics/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/item/ItemPickaxe.java&#10;sword&#9;FILE&#9;jar:///Users/JBKGraphics/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/item/ItemSword.java&#10;ToolMaterial&#9;PSI&#9;JAVA://net.minecraft.item.Item.ToolMaterial&#10;toolM&#9;PSI&#9;JAVA://net.minecraft.item.Item.ToolMaterial&#10;stoneCamo&#9;PSI&#9;JAVA://com.jbkgraphics.camolights.init.ModBlocks#stoneCamo" />
+    <property name="SearchEverywhereHistoryKey" value="Pick FILE jar:///Users/JBKGraphics/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/item/ItemPickaxe.java&#10;sword FILE jar:///Users/JBKGraphics/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/item/ItemSword.java&#10;ToolMaterial PSI JAVA://net.minecraft.item.Item.ToolMaterial&#10;toolM PSI JAVA://net.minecraft.item.Item.ToolMaterial&#10;stoneCamo PSI JAVA://com.jbkgraphics.camolights.init.ModBlocks#stoneCamo" />
   </component>
   <component name="RunManager" selected="Application.Minecraft Client">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -303,19 +271,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -341,6 +296,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -456,9 +424,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="22" width="1389" height="878" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -468,17 +436,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951653" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951653" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951653" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291262" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32951653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951653" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -526,7 +495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="975">
           <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -548,7 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="195">
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -584,7 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -838,7 +804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18072289" vertical-offset="0" max-vertical-offset="747">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -846,7 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="745">
           <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -854,7 +818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15789473" vertical-offset="0" max-vertical-offset="760">
           <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -862,14 +825,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6827309" vertical-offset="0" max-vertical-offset="765">
           <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47493404" vertical-offset="0" max-vertical-offset="1020">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1020">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
           <folding />
         </state>
       </provider>
