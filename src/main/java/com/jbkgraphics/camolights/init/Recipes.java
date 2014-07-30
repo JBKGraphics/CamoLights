@@ -1,19 +1,22 @@
 package com.jbkgraphics.camolights.init;
 
 
+
+
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.init.Blocks;
 import net.minecraft.item.ItemStack;
 
+
+
+
 public class Recipes {
     public static void init() {
-
         initModRecipes();
     }
 
 
     private static void initModRecipes(){
-
 
         //Stone Recipes
         GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.stoneCamo, 8), new Object []{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', Blocks.stone});
@@ -28,6 +31,4 @@ public class Recipes {
         GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.acaciaPlanksCamo, 8), new Object[]{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', new ItemStack(Blocks.planks, 1,4)});
         GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.darkPlanksCamo, 8), new Object[]{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', new ItemStack(Blocks.planks, 1,5)});
     }
-
-
 }

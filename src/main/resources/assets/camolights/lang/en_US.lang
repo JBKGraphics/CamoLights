@@ -1,3 +1,9 @@
 tile.camolights:stoneCamo.name=Stone Camouflaged Glowstone
 tile.camolights:stoneBrickCamo.name=Stone Brick Camouflaged Glowstone
-tile.camolights:woodPlanksCamo.name=Planks Camouflaged Glowstone
+
+
+tile.camolights:oakPlanksCamo.name=Oak Planks Camouflaged Glowstone
+tile.camolights:sprucePlanksCamo=Spruce Planks Camouflaged Glowstone
+tile.camolights:birchPlanksCamo=Birch Planks Camouflaged Glowstone
+tile.camolights:acaciaPlanksCamo=Acacia Planks Camouflaged Glowstone
+tile.camolights:darkPlanksCamo.name=Dark Oak Planks Camouflaged Glowstone

@@ -1,10 +1,9 @@
 package com.jbkgraphics.camolights.init;
 
 
-import com.jbkgraphics.camolights.block.OakPlanksCamo;
-import com.jbkgraphics.camolights.block.SprucePlanksCamo;
-import com.jbkgraphics.camolights.block.StoneBrickCamo;
-import com.jbkgraphics.camolights.block.StoneCamo;
+import com.jbkgraphics.camolights.block.wood.*;
+import com.jbkgraphics.camolights.block.stone.StoneBrickCamo;
+import com.jbkgraphics.camolights.block.stone.StoneCamo;
 import cpw.mods.fml.common.registry.GameRegistry;
 
 
@@ -18,6 +17,10 @@ public class ModBlocks
     //Wood Blocks
     public static final OakPlanksCamo oakPlanksCamo= new OakPlanksCamo();
     public static final SprucePlanksCamo sprucePlanksCamo = new SprucePlanksCamo();
+    public static final BirchPlanksCamo birchPlanksCamo = new BirchPlanksCamo();
+    public static final JunglePlanksCamo junglePlanksCamo = new JunglePlanksCamo();
+    public static final AcaciaPlanksCamo acaciaPlanksCamo = new AcaciaPlanksCamo();
+    public static final DarkPlanksCamo darkPlanksCamo = new DarkPlanksCamo();
 
 
 
@@ -32,5 +35,9 @@ public class ModBlocks
         //Wood Blocks
         GameRegistry.registerBlock(oakPlanksCamo, "oakPlanksCamo");
         GameRegistry.registerBlock(sprucePlanksCamo, "sprucePlanksCamo");
+        GameRegistry.registerBlock(birchPlanksCamo, "birchPlanksCamo");
+        GameRegistry.registerBlock(junglePlanksCamo, "junglePlanksCamo");
+        GameRegistry.registerBlock(acaciaPlanksCamo, "acaciaPlanksCamo");
+        GameRegistry.registerBlock(darkPlanksCamo, "darkPlanksCamo");
     }
 }
