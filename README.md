@@ -1,4 +1,6 @@
 CamoLights
 ==========
 
-The mod for more lights
+Created by JBKGraphics, AKA. Jebkor in collaberation with Mathsan123.
+
+
