@@ -22,6 +22,7 @@ public class Recipes {
         GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.stoneCamo, 8), new Object []{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', Blocks.stone});
         GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.stoneBrickCamo, 8), new Object []{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', Blocks.stonebrick});
 
+
         //Wooden Planks Recipes
         //There are 6 recipes, because there are 6 different types of wooden planks. The same counts when we get to the actual Wood Logs.
         GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.oakPlanksCamo, 8), new Object[]{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', new ItemStack(Blocks.planks)});
