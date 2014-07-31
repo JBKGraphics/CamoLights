@@ -1,3 +1,7 @@
 out
 run
-.gradle
+/.gradle
+/build
+/gradle
+/gradlew
+/gradlew.bat
