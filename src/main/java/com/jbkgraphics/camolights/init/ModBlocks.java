@@ -4,6 +4,7 @@ package com.jbkgraphics.camolights.init;
 import com.jbkgraphics.camolights.block.wood.*;
 import com.jbkgraphics.camolights.block.stone.StoneBrickCamo;
 import com.jbkgraphics.camolights.block.stone.StoneCamo;
+import com.jbkgraphics.camolights.block.wool.MagentaWoolCamo;
 import com.jbkgraphics.camolights.block.wool.OrangeWoolCamo;
 import com.jbkgraphics.camolights.block.wool.WhiteWoolCamo;
 import cpw.mods.fml.common.registry.GameRegistry;
@@ -29,6 +30,7 @@ public class ModBlocks
     //Wool Blocks
     public static final WhiteWoolCamo whiteWoolCamo = new WhiteWoolCamo();
     public static final OrangeWoolCamo orangeWoolCamo = new OrangeWoolCamo();
+    public static final MagentaWoolCamo magentaWoolCamo = new MagentaWoolCamo();
 
 
 
@@ -53,5 +55,7 @@ public class ModBlocks
         //Wool Blocks
         GameRegistry.registerBlock(whiteWoolCamo, "whiteWoolCamo");
         GameRegistry.registerBlock(orangeWoolCamo, "orangeWoolCamo");
+        GameRegistry.registerBlock(magentaWoolCamo, "magentaWoolCamo");
+
     }
 }
