@@ -31,6 +31,8 @@ public class ModBlocks
     public static final MagentaWoolCamo magentaWoolCamo = new MagentaWoolCamo();
     public static final LightBlueWoolCamo lightBlueWoolCamo = new LightBlueWoolCamo();
     public static final YellowWoolCamo yellowWoolCamo = new YellowWoolCamo();
+    public static final LimeWoolCamo limeWoolCamo = new LimeWoolCamo();
+    public static final PinkWoolCamo pinkWoolCamo = new PinkWoolCamo();
 
 
 
@@ -58,6 +60,8 @@ public class ModBlocks
         GameRegistry.registerBlock(magentaWoolCamo, "magentaWoolCamo");
         GameRegistry.registerBlock(lightBlueWoolCamo, "lightBlueWoolCamo");
         GameRegistry.registerBlock(yellowWoolCamo, "yellowWoolCamo");
+        GameRegistry.registerBlock(limeWoolCamo, "limeWoolCamo");
+        GameRegistry.registerBlock(pinkWoolCamo, "pinkWoolCamo");
 
     }
 }

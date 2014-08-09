@@ -41,5 +41,7 @@ public class Recipes {
         GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.magentaWoolCamo, 8), new Object[]{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', new ItemStack(Blocks.wool, 1,2)});
         GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.lightBlueWoolCamo, 8), new Object[]{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', new ItemStack(Blocks.wool, 1,3)});
         GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.yellowWoolCamo, 8), new Object[]{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', new ItemStack(Blocks.wool, 1, 4)});
+        GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.limeWoolCamo, 8), new Object[]{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', new ItemStack(Blocks.wool, 1, 5)});
+        GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.pinkWoolCamo, 8), new Object[]{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', new ItemStack(Blocks.wool, 1, 6)});
     }
 }
