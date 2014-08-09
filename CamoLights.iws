@@ -1,132 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list comment="" default="true" id="da6840f0-6757-45c6-aba7-c35e62139b70" name="Default">
-      <change afterPath="$PROJECT_DIR$/CamoLights.iws" beforePath="$PROJECT_DIR$/CamoLights.iws" type="MODIFICATION"/>
+    <list default="true" id="da6840f0-6757-45c6-aba7-c35e62139b70" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/YellowWoolCamo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CamoLights.iml" afterPath="$PROJECT_DIR$/CamoLights.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CamoLights.ipr" afterPath="$PROJECT_DIR$/CamoLights.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CamoLights.iws" afterPath="$PROJECT_DIR$/CamoLights.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/ModBlocks.java" afterPath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/ModBlocks.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/Recipes.java" afterPath="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/Recipes.java" />
     </list>
-    <ignored path="CamoLights.iws"/>
-    <ignored path=".idea/workspace.xml"/>
-    <option name="TRACKING_ENABLED" value="true"/>
-    <option name="SHOW_DIALOG" value="false"/>
-    <option name="HIGHLIGHT_CONFLICTS" value="true"/>
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false"/>
-    <option name="LAST_RESOLUTION" value="IGNORE"/>
+    <ignored path="CamoLights.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component flattened_view="true" name="ChangesViewManager" show_ignored="false"/>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value=""/>
+    <option name="PATCH_PATH" value="" />
   </component>
   <component name="DaemonCodeAnalyzer">
-    <disable_hints/>
+    <disable_hints />
   </component>
   <component name="DebuggerManager">
     <breakpoint_any converted="true">
       <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true"/>
-        <option name="NOTIFY_UNCAUGHT" value="true"/>
-        <option name="ENABLED" value="false"/>
-        <option name="LOG_ENABLED" value="false"/>
-        <option name="LOG_EXPRESSION_ENABLED" value="false"/>
-        <option name="SUSPEND_POLICY" value="SuspendAll"/>
-        <option name="COUNT_FILTER_ENABLED" value="false"/>
-        <option name="COUNT_FILTER" value="0"/>
-        <option name="CONDITION_ENABLED" value="false"/>
-        <option name="CLASS_FILTERS_ENABLED" value="false"/>
-        <option name="INSTANCE_FILTERS_ENABLED" value="false"/>
-        <option name="CONDITION" value=""/>
-        <option name="LOG_MESSAGE" value=""/>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
       </breakpoint>
       <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true"/>
-        <option name="NOTIFY_UNCAUGHT" value="true"/>
-        <option name="ENABLED" value="false"/>
-        <option name="LOG_ENABLED" value="false"/>
-        <option name="LOG_EXPRESSION_ENABLED" value="false"/>
-        <option name="SUSPEND_POLICY" value="SuspendAll"/>
-        <option name="COUNT_FILTER_ENABLED" value="false"/>
-        <option name="COUNT_FILTER" value="0"/>
-        <option name="CONDITION_ENABLED" value="false"/>
-        <option name="CLASS_FILTERS_ENABLED" value="false"/>
-        <option name="INSTANCE_FILTERS_ENABLED" value="false"/>
-        <option name="CONDITION" value=""/>
-        <option name="LOG_MESSAGE" value=""/>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties converted="true"/>
-    <breakpoint_rules converted="true"/>
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
   </component>
-  <component SELECTED_TARGET="default_target" name="ExecutionTargetManager"/>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="CamoLights"/>
+    <favorites_list name="CamoLights" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file current="false" current-in-tab="false" leaf-file-name="build.gradle" pinned="false">
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider editor-type-id="text-editor" selected="true">
-            <state max-vertical-offset="1020" vertical-offset="90" vertical-scroll-proportion="0.0">
-              <caret column="9" line="6" selection-end-column="9" selection-end-line="6" selection-start-column="9" selection-start-line="6"/>
-              <folding/>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1020">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file current="false" current-in-tab="false" leaf-file-name="ModBlocks.java" pinned="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/ModBlocks.java">
-          <provider editor-type-id="text-editor" selected="true">
-            <state max-vertical-offset="1050" vertical-offset="900" vertical-scroll-proportion="0.0">
-              <caret column="75" line="60" selection-end-column="75" selection-end-line="60" selection-start-column="75" selection-start-line="60"/>
-              <folding/>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current="false" current-in-tab="false" leaf-file-name="Recipes.java" pinned="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/Recipes.java">
-          <provider editor-type-id="text-editor" selected="true">
-            <state max-vertical-offset="675" vertical-offset="0" vertical-scroll-proportion="0.0">
-              <caret column="0" line="24" selection-end-column="0" selection-end-line="24" selection-start-column="0" selection-start-line="24"/>
-              <folding/>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current="true" current-in-tab="true" leaf-file-name="README.md" pinned="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="text-editor" selected="true">
-            <state max-vertical-offset="476" vertical-offset="0" vertical-scroll-proportion="0.25210086">
-              <caret column="0" line="8" selection-end-column="0" selection-end-line="8" selection-start-column="0" selection-start-line="8"/>
-              <folding/>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current="false" current-in-tab="false" leaf-file-name="en_US.lang" pinned="false">
+      <file leaf-file-name="en_US.lang" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/assets/camolights/lang/en_US.lang">
-          <provider editor-type-id="text-editor" selected="true">
-            <state max-vertical-offset="315" vertical-offset="105" vertical-scroll-proportion="0.0">
-              <caret column="73" line="7" selection-end-column="73" selection-end-line="7" selection-start-column="73" selection-start-line="7"/>
-              <folding/>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+              <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file current="false" current-in-tab="false" leaf-file-name="LightBlueWoolCamo.java" pinned="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/LightBlueWoolCamo.java">
-          <provider editor-type-id="text-editor" selected="true">
-            <state max-vertical-offset="330" vertical-offset="195" vertical-scroll-proportion="0.0">
-              <caret column="50" line="13" selection-end-column="50" selection-end-line="13" selection-start-column="50" selection-start-line="13"/>
-              <folding/>
+      <file leaf-file-name="ModBlocks.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/ModBlocks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="460" max-vertical-offset="975">
+              <caret line="59" column="69" selection-start-line="59" selection-start-column="69" selection-end-line="59" selection-end-column="69" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file current="false" current-in-tab="false" leaf-file-name="MagentaWoolCamo.java" pinned="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/MagentaWoolCamo.java">
-          <provider editor-type-id="text-editor" selected="true">
-            <state max-vertical-offset="330" vertical-offset="195" vertical-scroll-proportion="0.0">
-              <caret column="50" line="13" selection-end-column="50" selection-end-line="13" selection-start-column="50" selection-start-line="13"/>
-              <folding/>
+      <file leaf-file-name="Recipes.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/Recipes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="188" max-vertical-offset="690">
+              <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YellowWoolCamo.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/YellowWoolCamo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.39" vertical-offset="0" max-vertical-offset="500">
+              <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,335 +122,232 @@
   </component>
   <component name="FindManager">
     <FindUsagesManager>
-      <setting name="OPEN_NEW_TAB" value="true"/>
+      <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$"/>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/proxy/CommonProxy.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/proxy/ClientProxy.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/proxy/IProxy.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/ModItems.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/configuration/ConfigurationHandler.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/proxy/ServerProxy.java"/>
-        <option value="$PROJECT_DIR$/src/main/resources/mcmod.info"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/StoneCamoClass.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/BlockStoneCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/BlockCamoLights.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/CamoLights.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/reference/Reference.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/GlassCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/creativetab/CreativeTabCamoLights.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/creativetab/CreativeTabCL.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/StoneBrickCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/item/PickaxeCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/StoneCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/SpruceWoodBlock.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/item/CustomFoot.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/item/CustonFood.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/item/CustomFood.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/item/ItemsCamoLights.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/item/CustomSword.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/WoodPlanksCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/OakWoodPlanks.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/OakPlanksCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/SprucePlanksCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/JunglePlanksCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/BirchPlanksCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/OakPlanksCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/SprucePlanksCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/stone/StoneBrickCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/stone/StoneCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/AcaciaPlanksCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/DarkPlanksCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/oakLogCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/OakLogCamo.java"/>
-        <option value="$PROJECT_DIR$/build.gradle"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/woolCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/WhiteWoolCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/OrangeWoolCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/magentaWoolCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/LightBlueWoolCamo.java"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/ModBlocks.java"/>
-        <option value="$PROJECT_DIR$/src/main/resources/assets/camolights/lang/en_US.lang"/>
-        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/Recipes.java"/>
-        <option value="$PROJECT_DIR$/README.md"/>
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/proxy/CommonProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/proxy/ClientProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/proxy/IProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/ModItems.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/configuration/ConfigurationHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/proxy/ServerProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mcmod.info" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/StoneCamoClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/BlockStoneCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/BlockCamoLights.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/CamoLights.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/reference/Reference.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/GlassCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/creativetab/CreativeTabCamoLights.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/creativetab/CreativeTabCL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/StoneBrickCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/item/PickaxeCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/StoneCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/SpruceWoodBlock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/item/CustomFoot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/item/CustonFood.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/item/CustomFood.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/item/ItemsCamoLights.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/item/CustomSword.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/WoodPlanksCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/OakWoodPlanks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/OakPlanksCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/SprucePlanksCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/JunglePlanksCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/BirchPlanksCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/OakPlanksCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/SprucePlanksCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/stone/StoneBrickCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/stone/StoneCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/AcaciaPlanksCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/DarkPlanksCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/oakLogCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/OakLogCamo.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/woolCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/WhiteWoolCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/OrangeWoolCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/magentaWoolCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/LightBlueWoolCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/camolights/lang/en_US.lang" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/YellowWoolCamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/ModBlocks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/Recipes.java" />
       </list>
     </option>
   </component>
   <component name="MavenProjectNavigator">
-    <treeState/>
+    <treeState />
   </component>
   <component name="ModuleEditorState">
-    <option name="LAST_EDITED_MODULE_NAME"/>
-    <option name="LAST_EDITED_TAB_NAME"/>
+    <option name="LAST_EDITED_MODULE_NAME" />
+    <option name="LAST_EDITED_TAB_NAME" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="51"/>
-    <option name="y" value="22"/>
-    <option name="width" value="1389"/>
-    <option name="height" value="878"/>
+    <option name="x" value="51" />
+    <option name="y" value="22" />
+    <option name="width" value="1389" />
+    <option name="height" value="878" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
-      <profile-state/>
+      <profile-state />
     </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting id="Add" value="true"/>
-    <OptionsSetting id="Remove" value="true"/>
-    <OptionsSetting id="Checkout" value="true"/>
-    <OptionsSetting id="Update" value="true"/>
-    <OptionsSetting id="Status" value="true"/>
-    <OptionsSetting id="Edit" value="true"/>
-    <ConfirmationsSetting id="Add" value="2"/>
-    <ConfirmationsSetting id="Remove" value="0"/>
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="0"/>
+    <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages/>
-      <showMembers/>
-      <showModules/>
-      <showLibraryContents/>
-      <hideEmptyPackages/>
-      <abbreviatePackageNames/>
-      <autoscrollToSource/>
-      <autoscrollFromSource/>
-      <sortByType/>
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope"/>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode"/>
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.jbkgraphics.camolights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode"/>
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.jbkgraphics.camolights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="block"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode"/>
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.jbkgraphics.camolights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="block"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wool"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode"/>
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.jbkgraphics.camolights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="block"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wood"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode"/>
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets.camolights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode"/>
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+              <option name="myItemId" value="CamoLights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+              <option name="myItemId" value="CamoLights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+              <option name="myItemId" value="CamoLights" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CamoLights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CamoLights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+              <option name="myItemId" value="CamoLights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+              <option name="myItemId" value="CamoLights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+              <option name="myItemId" value="com.jbkgraphics.camolights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+              <option name="myItemId" value="CamoLights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+              <option name="myItemId" value="CamoLights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+              <option name="myItemId" value="com.jbkgraphics.camolights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camolights"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+              <option name="myItemId" value="block" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+              <option name="myItemId" value="CamoLights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+              <option name="myItemId" value="CamoLights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+              <option name="myItemId" value="com.jbkgraphics.camolights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+              <option name="myItemId" value="block" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="camolights"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="init"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+              <option name="myItemId" value="wool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+              <option name="myItemId" value="CamoLights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CamoLights"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+              <option name="myItemId" value="CamoLights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+              <option name="myItemId" value="com.jbkgraphics.camolights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+              <option name="myItemId" value="block" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+              <option name="myItemId" value="wood" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CamoLights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="camolights"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+              <option name="myItemId" value="CamoLights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="block"/>
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode"/>
+              <option name="myItemId" value="assets.camolights" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -471,659 +355,629 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="GoToFile.includeJavaFiles" value="false"/>
-    <property name="GoToClass.toSaveIncludeLibraries" value="false"/>
-    <property name="MemberChooser.sorted" value="false"/>
-    <property name="MemberChooser.showClasses" value="true"/>
-    <property name="GoToClass.includeLibraries" value="false"/>
-    <property name="MemberChooser.copyJavadoc" value="false"/>
-    <property name="recentsLimit" value="5"/>
-    <property name="FullScreen" value="false"/>
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/resources"/>
-    <property name="options.lastSelected" value="fileTemplates"/>
-    <property name="options.splitter.main.proportions" value="0.3"/>
-    <property name="options.splitter.details.proportions" value="0.2"/>
-    <property name="options.searchVisible" value="true"/>
-    <property name="dynamic.classpath" value="false"/>
-    <property name="SearchEverywhereHistoryKey" value="Pick FILE jar:///Users/JBKGraphics/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/item/ItemPickaxe.java&#10;sword FILE jar:///Users/JBKGraphics/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/item/ItemSword.java&#10;ToolMaterial PSI JAVA://net.minecraft.item.Item.ToolMaterial&#10;toolM PSI JAVA://net.minecraft.item.Item.ToolMaterial&#10;stoneCamo PSI JAVA://com.jbkgraphics.camolights.init.ModBlocks#stoneCamo"/>
-    <property name="show.inlinked.gradle.project.popup" value="false"/>
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="options.lastSelected" value="fileTemplates" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="Pick FILE jar:///Users/JBKGraphics/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/item/ItemPickaxe.java&#10;sword FILE jar:///Users/JBKGraphics/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/item/ItemSword.java&#10;ToolMaterial PSI JAVA://net.minecraft.item.Item.ToolMaterial&#10;toolM PSI JAVA://net.minecraft.item.Item.ToolMaterial&#10;stoneCamo PSI JAVA://com.jbkgraphics.camolights.init.ModBlocks#stoneCamo" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name=""/>
+      <recent name="" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Minecraft Client">
-    <configuration default="true" factoryName="Android Tests" type="AndroidTestRunConfigurationType">
-      <module name=""/>
-      <option name="TESTING_TYPE" value="0"/>
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value=""/>
-      <option name="METHOD_NAME" value=""/>
-      <option name="CLASS_NAME" value=""/>
-      <option name="PACKAGE_NAME" value=""/>
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR"/>
-      <option name="USE_LAST_SELECTED_DEVICE" value="false"/>
-      <option name="PREFERRED_AVD" value=""/>
-      <option name="USE_COMMAND_LINE" value="true"/>
-      <option name="COMMAND_LINE" value=""/>
-      <option name="WIPE_USER_DATA" value="false"/>
-      <option name="DISABLE_BOOT_ANIMATION" value="false"/>
-      <option name="NETWORK_SPEED" value="full"/>
-      <option name="NETWORK_LATENCY" value="none"/>
-      <option name="CLEAR_LOGCAT" value="false"/>
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true"/>
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true"/>
-      <method/>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
     </configuration>
-    <configuration default="true" factoryName="Remote" type="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true"/>
-      <option name="SERVER_MODE" value="false"/>
-      <option name="SHMEM_ADDRESS" value="javadebug"/>
-      <option name="HOST" value="localhost"/>
-      <option name="PORT" value="5005"/>
-      <method/>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
     </configuration>
-    <configuration default="true" factoryName="TestNG" type="TestNG">
-      <module name=""/>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
-      <option name="ALTERNATIVE_JRE_PATH"/>
-      <option name="SUITE_NAME"/>
-      <option name="PACKAGE_NAME"/>
-      <option name="MAIN_CLASS_NAME"/>
-      <option name="METHOD_NAME"/>
-      <option name="GROUP_NAME"/>
-      <option name="TEST_OBJECT" value="CLASS"/>
-      <option name="VM_PARAMETERS"/>
-      <option name="PARAMETERS"/>
-      <option name="WORKING_DIRECTORY"/>
-      <option name="OUTPUT_DIRECTORY"/>
-      <option name="ANNOTATION_TYPE"/>
-      <option name="ENV_VARIABLES"/>
-      <option name="PASS_PARENT_ENVS" value="true"/>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies"/>
+        <value defaultName="moduleWithDependencies" />
       </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false"/>
-      <option name="PROPERTIES_FILE"/>
-      <envs/>
-      <properties/>
-      <listeners/>
-      <method/>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
     </configuration>
-    <configuration default="true" factoryName="Applet" type="Applet">
-      <module name=""/>
-      <option name="MAIN_CLASS_NAME"/>
-      <option name="HTML_FILE_NAME"/>
-      <option name="HTML_USED" value="false"/>
-      <option name="WIDTH" value="400"/>
-      <option name="HEIGHT" value="300"/>
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy"/>
-      <option name="VM_PARAMETERS"/>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
-      <option name="ALTERNATIVE_JRE_PATH"/>
-      <method/>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension enabled="false" merge="false" name="coverage" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
     </configuration>
-    <configuration default="true" factoryName="Application" type="Application">
-      <extension enabled="false" merge="false" name="coverage"/>
-      <option name="MAIN_CLASS_NAME"/>
-      <option name="VM_PARAMETERS"/>
-      <option name="PROGRAM_PARAMETERS"/>
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$"/>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
-      <option name="ALTERNATIVE_JRE_PATH"/>
-      <option name="ENABLE_SWING_INSPECTOR" value="false"/>
-      <option name="ENV_VARIABLES"/>
-      <option name="PASS_PARENT_ENVS" value="true"/>
-      <module name=""/>
-      <envs/>
-      <method/>
-    </configuration>
-    <configuration default="true" factoryName="JUnit" type="JUnit">
-      <extension enabled="false" merge="false" name="coverage"/>
-      <module name=""/>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
-      <option name="ALTERNATIVE_JRE_PATH"/>
-      <option name="PACKAGE_NAME"/>
-      <option name="MAIN_CLASS_NAME"/>
-      <option name="METHOD_NAME"/>
-      <option name="TEST_OBJECT" value="class"/>
-      <option name="VM_PARAMETERS"/>
-      <option name="PARAMETERS"/>
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$"/>
-      <option name="ENV_VARIABLES"/>
-      <option name="PASS_PARENT_ENVS" value="true"/>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension enabled="false" merge="false" name="coverage" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies"/>
+        <value defaultName="moduleWithDependencies" />
       </option>
-      <envs/>
-      <patterns/>
-      <method/>
+      <envs />
+      <patterns />
+      <method />
     </configuration>
-    <configuration default="true" factoryName="Android Application" type="AndroidRunConfigurationType">
-      <module name=""/>
-      <option name="ACTIVITY_CLASS" value=""/>
-      <option name="MODE" value="default_activity"/>
-      <option name="DEPLOY" value="true"/>
-      <option name="ARTIFACT_NAME" value=""/>
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR"/>
-      <option name="USE_LAST_SELECTED_DEVICE" value="false"/>
-      <option name="PREFERRED_AVD" value=""/>
-      <option name="USE_COMMAND_LINE" value="true"/>
-      <option name="COMMAND_LINE" value=""/>
-      <option name="WIPE_USER_DATA" value="false"/>
-      <option name="DISABLE_BOOT_ANIMATION" value="false"/>
-      <option name="NETWORK_SPEED" value="full"/>
-      <option name="NETWORK_LATENCY" value="none"/>
-      <option name="CLEAR_LOGCAT" value="false"/>
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true"/>
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true"/>
-      <method/>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
     </configuration>
-    <configuration default="false" factoryName="Application" name="Minecraft Client" type="Application">
-      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true"/>
-      <option name="MAIN_CLASS_NAME" value="GradleStart"/>
-      <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M -Djava.library.path=&quot;$PROJECT_DIR$/build/natives&quot; -Dfml.ignoreInvalidMinecraftCertificates=true"/>
-      <option name="PROGRAM_PARAMETERS" value=""/>
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run"/>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
-      <option name="ALTERNATIVE_JRE_PATH" value=""/>
-      <option name="ENABLE_SWING_INSPECTOR" value="false"/>
-      <option name="ENV_VARIABLES"/>
-      <option name="PASS_PARENT_ENVS" value="true"/>
-      <module name="CamoLights"/>
-      <envs/>
-      <RunnerSettings RunnerId="Run"/>
-      <ConfigurationWrapper RunnerId="Run"/>
-      <method/>
+    <configuration default="false" name="Minecraft Client" type="Application" factoryName="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStart" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M -Djava.library.path=&quot;$PROJECT_DIR$/build/natives&quot; -Dfml.ignoreInvalidMinecraftCertificates=true" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CamoLights" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
     </configuration>
-    <configuration default="false" factoryName="Application" name="Minecraft Server" type="Application">
-      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true"/>
-      <option name="MAIN_CLASS_NAME" value="GradleStartServer"/>
-      <option name="VM_PARAMETERS" value="-Xincgc -Dfml.ignoreInvalidMinecraftCertificates=true"/>
-      <option name="PROGRAM_PARAMETERS" value=""/>
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run"/>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
-      <option name="ALTERNATIVE_JRE_PATH" value=""/>
-      <option name="ENABLE_SWING_INSPECTOR" value="false"/>
-      <option name="ENV_VARIABLES"/>
-      <option name="PASS_PARENT_ENVS" value="true"/>
-      <module name="CamoLights"/>
-      <envs/>
-      <RunnerSettings RunnerId="Run"/>
-      <ConfigurationWrapper RunnerId="Run"/>
-      <method/>
+    <configuration default="false" name="Minecraft Server" type="Application" factoryName="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Dfml.ignoreInvalidMinecraftCertificates=true" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CamoLights" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
     </configuration>
     <list size="2">
-      <item class="java.lang.String" index="0" itemvalue="Application.Minecraft Client"/>
-      <item class="java.lang.String" index="1" itemvalue="Application.Minecraft Server"/>
+      <item index="0" class="java.lang.String" itemvalue="Application.Minecraft Client" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Minecraft Server" />
     </list>
     <configuration default="true" name="&lt;template&gt;" selected="false" type="WebApp">
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
-  <configuration default="false" factoryName="Application" name="Minecraft Client" type="Application">
-      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true"/>
-      <option name="MAIN_CLASS_NAME" value="GradleStart"/>
-      <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M -Djava.library.path=&quot;$PROJECT_DIR$/build/natives&quot; -Dfml.ignoreInvalidMinecraftCertificates=true"/>
-      <option name="PROGRAM_PARAMETERS" value=""/>
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run"/>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
-      <option name="ALTERNATIVE_JRE_PATH" value=""/>
-      <option name="ENABLE_SWING_INSPECTOR" value="false"/>
-      <option name="ENV_VARIABLES"/>
-      <option name="PASS_PARENT_ENVS" value="true"/>
-      <module name="CamoLights"/>
-      <envs/>
-      <RunnerSettings RunnerId="Run"/>
-      <ConfigurationWrapper RunnerId="Run"/>
-      <method/>
-    </configuration>
-    <configuration default="false" factoryName="Application" name="Minecraft Server" type="Application">
-      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true"/>
-      <option name="MAIN_CLASS_NAME" value="GradleStartServer"/>
-      <option name="VM_PARAMETERS" value="-Xincgc -Dfml.ignoreInvalidMinecraftCertificates=true"/>
-      <option name="PROGRAM_PARAMETERS" value=""/>
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run"/>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
-      <option name="ALTERNATIVE_JRE_PATH" value=""/>
-      <option name="ENABLE_SWING_INSPECTOR" value="false"/>
-      <option name="ENV_VARIABLES"/>
-      <option name="PASS_PARENT_ENVS" value="true"/>
-      <module name="CamoLights"/>
-      <envs/>
-      <RunnerSettings RunnerId="Run"/>
-      <ConfigurationWrapper RunnerId="Run"/>
-      <method/>
-    </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false"/>
+  <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
-    <configuration/>
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist comment="" id="da6840f0-6757-45c6-aba7-c35e62139b70" name="Default"/>
+      <changelist id="da6840f0-6757-45c6-aba7-c35e62139b70" name="Default" comment="" />
       <created>1405281419264</created>
       <updated>1405281419264</updated>
     </task>
-    <servers/>
+    <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame extended-state="6" height="878" width="1389" x="51" y="22"/>
-    <editor active="true"/>
+    <frame x="51" y="22" width="1389" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="false" anchor="left" auto_hide="false" content_ui="tabs" id="Palette " internal_type="DOCKED" order="2" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
-      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Changes" internal_type="DOCKED" order="7" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
-      <window_info active="false" anchor="right" auto_hide="false" content_ui="tabs" id="Designer" internal_type="DOCKED" order="3" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
-      <window_info active="false" anchor="right" auto_hide="false" content_ui="tabs" id="Palette" internal_type="DOCKED" order="4" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
-      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Terminal" internal_type="DOCKED" order="11" sideWeight="0.5" side_tool="false" type="DOCKED" visible="true" weight="0.32868022"/>
-      <window_info active="false" anchor="right" auto_hide="false" content_ui="tabs" id="Ant Build" internal_type="DOCKED" order="1" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.25"/>
-      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Debug" internal_type="DOCKED" order="3" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.4"/>
-      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Event Log" internal_type="DOCKED" order="8" sideWeight="0.5" side_tool="true" type="DOCKED" visible="false" weight="0.32951653"/>
-      <window_info active="false" anchor="left" auto_hide="false" content_ui="tabs" id="Favorites" internal_type="DOCKED" order="3" sideWeight="0.5" side_tool="true" type="DOCKED" visible="false" weight="0.33"/>
-      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Version Control" internal_type="DOCKED" order="9" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.32951653"/>
-      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="TODO" internal_type="DOCKED" order="6" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
-      <window_info active="false" anchor="left" auto_hide="false" content_ui="tabs" id="Structure" internal_type="DOCKED" order="1" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.25"/>
-      <window_info active="false" anchor="right" auto_hide="false" content_ui="tabs" id="Maven Projects" internal_type="DOCKED" order="5" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.3291262"/>
-      <window_info active="false" anchor="right" auto_hide="false" content_ui="tabs" id="Commander" internal_type="SLIDING" order="0" sideWeight="0.5" side_tool="false" type="SLIDING" visible="false" weight="0.4"/>
-      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Application Servers" internal_type="DOCKED" order="10" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
-      <window_info active="false" anchor="left" auto_hide="false" content_ui="combo" id="Project" internal_type="DOCKED" order="0" sideWeight="0.5" side_tool="false" type="DOCKED" visible="true" weight="0.20341499"/>
-      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Run" internal_type="DOCKED" order="2" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.32880098"/>
-      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Cvs" internal_type="DOCKED" order="4" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.25"/>
-      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Message" internal_type="DOCKED" order="0" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
-      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Find" internal_type="DOCKED" order="1" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.32951653"/>
-      <window_info active="false" anchor="left" auto_hide="false" content_ui="tabs" id="Palette " internal_type="DOCKED" order="2" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.33"/>
-      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Messages" internal_type="DOCKED" order="12" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.32951653"/>
-      <window_info active="false" anchor="right" auto_hide="false" content_ui="combo" id="Hierarchy" internal_type="DOCKED" order="2" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.25"/>
-      <window_info active="false" anchor="bottom" auto_hide="false" content_ui="tabs" id="Inspection" internal_type="DOCKED" order="5" sideWeight="0.5" side_tool="false" type="DOCKED" visible="false" weight="0.4"/>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32868022" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951653" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951653" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951653" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291262" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20341499" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32824427" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection/>
+      <collection />
     </option>
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection/>
+      <collection />
     </option>
   </component>
   <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000"/>
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="myTodoPanelSettings">
-      <TodoPanelSettings/>
+      <TodoPanelSettings />
     </option>
-    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true"/>
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager/>
+    <breakpoint-manager />
   </component>
   <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false"/>
-    <option name="FILTER_TARGETS" value="false"/>
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/Recipes.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="195" vertical-offset="75" vertical-scroll-proportion="0.0">
-          <caret column="20" line="5" selection-end-column="20" selection-end-line="5" selection-start-column="20" selection-start-line="5"/>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/item/ItemsCamoLights.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="195" vertical-offset="75" vertical-scroll-proportion="0.0">
-          <caret column="19" line="5" selection-end-column="19" selection-end-line="5" selection-start-column="19" selection-start-line="5"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="195">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/proxy/IProxy.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="195" vertical-offset="75" vertical-scroll-proportion="0.0">
-          <caret column="23" line="5" selection-end-column="23" selection-end-line="5" selection-start-column="23" selection-start-line="5"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="195">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/proxy/CommonProxy.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="195" vertical-offset="75" vertical-scroll-proportion="0.0">
-          <caret column="24" line="5" selection-end-column="24" selection-end-line="5" selection-start-column="24" selection-start-line="5"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="195">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/reference/Reference.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="255" vertical-offset="165" vertical-scroll-proportion="0.0">
-          <caret column="1" line="11" selection-end-column="1" selection-end-line="11" selection-start-column="1" selection-start-line="11"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/CamoLights.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="100" vertical-offset="0" vertical-scroll-proportion="0.0">
-          <caret column="0" line="0" selection-end-column="0" selection-end-line="0" selection-start-column="0" selection-start-line="0"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="100" vertical-offset="0" vertical-scroll-proportion="0.0">
-          <caret column="0" line="0" selection-end-column="0" selection-end-line="0" selection-start-column="0" selection-start-line="0"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/configuration/ConfigurationHandler.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="180" vertical-offset="0" vertical-scroll-proportion="0.0">
-          <caret column="13" line="4" selection-end-column="13" selection-end-line="4" selection-start-column="13" selection-start-line="4"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/proxy/ClientProxy.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="712" vertical-offset="0" vertical-scroll-proportion="0.084269665">
-          <caret column="13" line="4" selection-end-column="13" selection-end-line="4" selection-start-column="13" selection-start-line="4"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.084269665" vertical-offset="0" max-vertical-offset="712">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/proxy/ServerProxy.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="735" vertical-offset="0" vertical-scroll-proportion="0.08163265">
-          <caret column="13" line="4" selection-end-column="13" selection-end-line="4" selection-start-column="13" selection-start-line="4"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08163265" vertical-offset="0" max-vertical-offset="735">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/proxy/CommonProxy.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="758" vertical-offset="0" vertical-scroll-proportion="0.079155676">
-          <caret column="22" line="4" selection-end-column="22" selection-end-line="4" selection-start-column="22" selection-start-line="4"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.079155676" vertical-offset="0" max-vertical-offset="758">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/proxy/IProxy.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="758" vertical-offset="0" vertical-scroll-proportion="0.079155676">
-          <caret column="17" line="4" selection-end-column="17" selection-end-line="4" selection-start-column="17" selection-start-line="4"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.079155676" vertical-offset="0" max-vertical-offset="758">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="486" vertical-offset="0" vertical-scroll-proportion="0.09259259">
-          <caret column="18" line="3" selection-end-column="18" selection-end-line="3" selection-start-column="18" selection-start-line="3"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09259259" vertical-offset="0" max-vertical-offset="486">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/reference/Reference.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="758" vertical-offset="0" vertical-scroll-proportion="0.13852243">
-          <caret column="54" line="7" selection-end-column="54" selection-end-line="7" selection-start-column="54" selection-start-line="7"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13852243" vertical-offset="0" max-vertical-offset="758">
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/block/BlockGlass.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="660" vertical-offset="0" vertical-scroll-proportion="0.0">
-          <caret column="0" line="2" selection-end-column="0" selection-end-line="2" selection-start-column="0" selection-start-line="2"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/block/BlockDirt.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="1965" vertical-offset="510" vertical-scroll-proportion="-5.769231">
-          <caret column="25" line="55" selection-end-column="25" selection-end-line="55" selection-start-column="21" selection-start-line="55"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.769231" vertical-offset="510" max-vertical-offset="1965">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/block/BlockStone.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="360" vertical-offset="0" vertical-scroll-proportion="0.0">
-          <caret column="5" line="19" selection-end-column="5" selection-end-line="19" selection-start-column="5" selection-start-line="19"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/block/BlockObsidian.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="375" vertical-offset="0" vertical-scroll-proportion="0.0">
-          <caret column="13" line="7" selection-end-column="13" selection-end-line="7" selection-start-column="13" selection-start-line="7"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/block/BlockStoneBrick.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="1080" vertical-offset="0" vertical-scroll-proportion="1.6386554">
-          <caret column="10" line="63" selection-end-column="10" selection-end-line="63" selection-start-column="9" selection-start-line="63"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6386554" vertical-offset="0" max-vertical-offset="1080">
+          <caret line="63" column="10" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/creativetab/CreativeTabCL.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="525" vertical-offset="26" vertical-scroll-proportion="0.7294589">
-          <caret column="9" line="26" selection-end-column="9" selection-end-line="26" selection-start-column="9" selection-start-line="26"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7294589" vertical-offset="26" max-vertical-offset="525">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/ModItems.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="499" vertical-offset="0" vertical-scroll-proportion="0.12024048">
-          <caret column="13" line="4" selection-end-column="13" selection-end-line="4" selection-start-column="13" selection-start-line="4"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12024048" vertical-offset="0" max-vertical-offset="499">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets/camolights/textures/blocks/stoneBrickCamo.png">
-      <provider editor-type-id="images" selected="true">
-        <state/>
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/item/ItemTool.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="2040" vertical-offset="90" vertical-scroll-proportion="0.0">
-          <caret column="34" line="27" selection-end-column="39" selection-end-line="27" selection-start-column="28" selection-start-line="27"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="2040">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/item/ItemShears.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="1860" vertical-offset="105" vertical-scroll-proportion="0.61728394">
-          <caret column="5" line="27" selection-end-column="5" selection-end-line="27" selection-start-column="5" selection-start-line="27"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61728394" vertical-offset="105" max-vertical-offset="1860">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/block/BlockStairs.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="8985" vertical-offset="0" vertical-scroll-proportion="0.12958963">
-          <caret column="13" line="23" selection-end-column="13" selection-end-line="23" selection-start-column="13" selection-start-line="23"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12958963" vertical-offset="0" max-vertical-offset="8985">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../examplemod/src/main/java/com/example/examplemod/ExampleMod.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="499" vertical-offset="0" vertical-scroll-proportion="0.0">
-          <caret column="0" line="0" selection-end-column="0" selection-end-line="0" selection-start-column="0" selection-start-line="0"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="499">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/item/ItemsCamoLights.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="745" vertical-offset="0" vertical-scroll-proportion="0.26174498">
-          <caret column="5" line="15" selection-end-column="5" selection-end-line="15" selection-start-column="5" selection-start-line="15"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26174498" vertical-offset="0" max-vertical-offset="745">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/item/ItemSword.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="1710" vertical-offset="0" vertical-scroll-proportion="0.0">
-          <caret column="35" line="18" selection-end-column="35" selection-end-line="18" selection-start-column="18" selection-start-line="18"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/item/Item.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="19665" vertical-offset="18337" vertical-scroll-proportion="0.0">
-          <caret column="23" line="1463" selection-end-column="23" selection-end-line="1463" selection-start-column="23" selection-start-line="1463"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="18337" max-vertical-offset="19665">
+          <caret line="1463" column="23" selection-start-line="1463" selection-start-column="23" selection-end-line="1463" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/item/ItemPickaxe.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="390" vertical-offset="0" vertical-scroll-proportion="0.0">
-          <caret column="13" line="8" selection-end-column="13" selection-end-line="8" selection-start-column="13" selection-start-line="8"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/block/BlockWood.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="990" vertical-offset="0" vertical-scroll-proportion="0.0">
-          <caret column="121" line="14" selection-end-column="121" selection-end-line="14" selection-start-column="4" selection-start-line="14"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+          <caret line="14" column="121" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="121" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/JunglePlanksCamo.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="758" vertical-offset="0" vertical-scroll-proportion="0.25725594">
-          <caret column="50" line="13" selection-end-column="50" selection-end-line="13" selection-start-column="50" selection-start-line="13"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25725594" vertical-offset="0" max-vertical-offset="758">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/BirchPlanksCamo.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="758" vertical-offset="0" vertical-scroll-proportion="0.25725594">
-          <caret column="50" line="13" selection-end-column="50" selection-end-line="13" selection-start-column="50" selection-start-line="13"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25725594" vertical-offset="0" max-vertical-offset="758">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/OakPlanksCamo.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="758" vertical-offset="0" vertical-scroll-proportion="0.2176781">
-          <caret column="50" line="13" selection-end-column="50" selection-end-line="13" selection-start-column="50" selection-start-line="13"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2176781" vertical-offset="0" max-vertical-offset="758">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/SprucePlanksCamo.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="758" vertical-offset="0" vertical-scroll-proportion="0.2176781">
-          <caret column="50" line="13" selection-end-column="50" selection-end-line="13" selection-start-column="50" selection-start-line="13"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2176781" vertical-offset="0" max-vertical-offset="758">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/stone/StoneBrickCamo.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="758" vertical-offset="0" vertical-scroll-proportion="0.3166227">
-          <caret column="42" line="16" selection-end-column="42" selection-end-line="16" selection-start-column="42" selection-start-line="16"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3166227" vertical-offset="0" max-vertical-offset="758">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/stone/StoneCamo.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="758" vertical-offset="0" vertical-scroll-proportion="0.27704486">
-          <caret column="42" line="14" selection-end-column="42" selection-end-line="14" selection-start-column="42" selection-start-line="14"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27704486" vertical-offset="0" max-vertical-offset="758">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/DarkPlanksCamo.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="499" vertical-offset="0" vertical-scroll-proportion="0.39078155">
-          <caret column="50" line="13" selection-end-column="50" selection-end-line="13" selection-start-column="50" selection-start-line="13"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39078155" vertical-offset="0" max-vertical-offset="499">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/block/BlockLog.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="1185" vertical-offset="660" vertical-scroll-proportion="0.0">
-          <caret column="22" line="12" selection-end-column="22" selection-end-line="12" selection-start-column="22" selection-start-line="12"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="1185">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/BlockCamoLights.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="745" vertical-offset="0" vertical-scroll-proportion="0.0">
-          <caret column="41" line="0" selection-end-column="41" selection-end-line="0" selection-start-column="41" selection-start-line="0"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="745">
+          <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/CamoLights.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="765" vertical-offset="0" vertical-scroll-proportion="0.6827309">
-          <caret column="23" line="48" selection-end-column="23" selection-end-line="48" selection-start-column="23" selection-start-line="48"/>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="1020" vertical-offset="90" vertical-scroll-proportion="0.0">
-          <caret column="9" line="6" selection-end-column="9" selection-end-line="6" selection-start-column="9" selection-start-line="6"/>
-          <folding/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6827309" vertical-offset="0" max-vertical-offset="765">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wood/AcaciaPlanksCamo.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="300" vertical-offset="0" vertical-scroll-proportion="0.0">
-          <caret column="41" line="12" selection-end-column="41" selection-end-line="12" selection-start-column="8" selection-start-line="12"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/OrangeWoolCamo.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="360" vertical-offset="0" vertical-scroll-proportion="0.0">
-          <caret column="50" line="14" selection-end-column="50" selection-end-line="14" selection-start-column="50" selection-start-line="14"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/WhiteWoolCamo.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="499" vertical-offset="0" vertical-scroll-proportion="0.27054107">
-          <caret column="33" line="9" selection-end-column="33" selection-end-line="9" selection-start-column="33" selection-start-line="9"/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27054107" vertical-offset="0" max-vertical-offset="499">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/MagentaWoolCamo.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="330" vertical-offset="0" vertical-scroll-proportion="0.0">
-          <caret column="50" line="13" selection-end-column="50" selection-end-line="13" selection-start-column="50" selection-start-line="13"/>
-          <folding/>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/LightBlueWoolCamo.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="330" vertical-offset="0" vertical-scroll-proportion="0.0">
-          <caret column="50" line="13" selection-end-column="50" selection-end-line="13" selection-start-column="50" selection-start-line="13"/>
-          <folding/>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/ModBlocks.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="945" vertical-offset="429" vertical-scroll-proportion="0.0">
-          <caret column="75" line="60" selection-end-column="75" selection-end-line="60" selection-start-column="75" selection-start-line="60"/>
-          <folding/>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/camolights/lang/en_US.lang">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="315" vertical-offset="0" vertical-scroll-proportion="0.0">
-          <caret column="73" line="7" selection-end-column="73" selection-end-line="7" selection-start-column="73" selection-start-line="7"/>
-          <folding/>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/Recipes.java">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="675" vertical-offset="0" vertical-scroll-proportion="0.0">
-          <caret column="0" line="24" selection-end-column="0" selection-end-line="24" selection-start-column="0" selection-start-line="24"/>
-          <folding/>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1020">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor" selected="true">
-        <state max-vertical-offset="476" vertical-offset="0" vertical-scroll-proportion="0.25210086">
-          <caret column="0" line="8" selection-end-column="0" selection-end-line="8" selection-start-column="0" selection-start-line="8"/>
-          <folding/>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25263157" vertical-offset="0" max-vertical-offset="475">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/MagentaWoolCamo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/LightBlueWoolCamo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/camolights/lang/en_US.lang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/ModBlocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="460" max-vertical-offset="975">
+          <caret line="59" column="69" selection-start-line="59" selection-start-column="69" selection-end-line="59" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/init/Recipes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="188" max-vertical-offset="690">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jbkgraphics/camolights/block/wool/YellowWoolCamo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39" vertical-offset="0" max-vertical-offset="500">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
 </project>
+

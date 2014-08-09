@@ -3,6 +3,7 @@ package com.jbkgraphics.camolights.init;
 
 
 
+import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.init.Blocks;
 import net.minecraft.item.ItemStack;
@@ -39,5 +40,6 @@ public class Recipes {
         GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.orangeWoolCamo, 8), new Object[]{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', new ItemStack(Blocks.wool, 1,1)});
         GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.magentaWoolCamo, 8), new Object[]{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', new ItemStack(Blocks.wool, 1,2)});
         GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.lightBlueWoolCamo, 8), new Object[]{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', new ItemStack(Blocks.wool, 1,3)});
+        GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.yellowWoolCamo, 8), new Object[]{"XXX", "XYX", "XXX", 'X', Blocks.glowstone, 'Y', new ItemStack(Blocks.wool, 1, 4)});
     }
 }
